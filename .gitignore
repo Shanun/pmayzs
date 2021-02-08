@@ -1,0 +1,8 @@
+node_modules/
+.cache/
+demand/
+docs/
+package-lock.json
+yarn.lock
+.idea/
+src/db/
