@@ -5,7 +5,7 @@
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
 ## 文档
-https://evenyao.github.io/GearCase-WebDoc/
+
 
 ## 简介
 ![](https://img-1257191344.cos.ap-chengdu.myqcloud.com/gear.png)
