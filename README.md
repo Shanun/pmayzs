@@ -1,8 +1,4 @@
 # GearCase UI
-[![Build Status](https://www.travis-ci.org/evenyao/GearCase.svg?branch=master)](https://www.travis-ci.org/evenyao/GearCase)
-![Cocoapods](https://img.shields.io/cocoapods/l/AFNetworking.svg)
-![GearCase](https://img.shields.io/badge/gearcase-0.2.17-orange.svg)
-[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
 ## 文档
 https://github.com/Shanun/pmayzs
